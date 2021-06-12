@@ -1,7 +1,7 @@
 # Johnsproject
 Collection of good code examples from projects
 
-DSP Final Project contains all the code from a breathing rate monitor project.
+DSP Final Project contains all the code from a breathing rate monitor project. The project is designed for arduino and incorporates multiple digital filters.
 Memory Project contains essential code from a projecct working with inferred RAM and byte enabled RAM in VHDL. As well as a RAM sweep test application in C.
 Reservations Project is a good example of C++ and OOP coding.
 The point of the project was to make a system that players on a sports team could use to reserve seats in cars for rides to games. 
